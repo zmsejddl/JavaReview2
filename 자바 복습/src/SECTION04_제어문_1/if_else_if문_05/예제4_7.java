@@ -1,4 +1,4 @@
-package SECTION04_제어문_1.if_else_if문05;
+package SECTION04_제어문_1.if_else_if문_05;
 
 public class 예제4_7 {
 	public static void main(String[] args) {
